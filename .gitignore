@@ -1,0 +1,8 @@
+*.sqlite
+*.sqlite3
+*.pyc
+__pycache__
+*_.py
+*_initial.py
+teamsite.sublime-project
+teamsite.sublime-workspace

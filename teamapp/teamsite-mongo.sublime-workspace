@@ -1,0 +1,666 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mem",
+				"mem_dict\tforstmt"
+			],
+			[
+				"up",
+				"up_dicts\tstatement"
+			],
+			[
+				"instance",
+				"instance_id\tstatement"
+			],
+			[
+				"valida",
+				"validated_data\tparam"
+			],
+			[
+				"tem",
+				"team_id"
+			],
+			[
+				"upda",
+				"update_data\tstatement"
+			],
+			[
+				"Mem",
+				"MemberSerializer\tclass"
+			],
+			[
+				"members",
+				"members_data\tparam"
+			],
+			[
+				"memb",
+				"member_data"
+			],
+			[
+				"vali",
+				"validated_data\tparam"
+			],
+			[
+				"Team",
+				"TeamLimitOffsetPagination\tclass"
+			],
+			[
+				"is",
+				"is_duplicate\tstatement"
+			],
+			[
+				"ins",
+				"instance_emails\tstatement"
+			],
+			[
+				"insta",
+				"instance_email"
+			],
+			[
+				"inst",
+				"instance_email\tstatement"
+			],
+			[
+				"Vali",
+				"validation"
+			],
+			[
+				"dele",
+				"delete_emails\tstatement"
+			],
+			[
+				"me",
+				"member_data"
+			],
+			[
+				"validate",
+				"validate_unique_email\tfunction"
+			],
+			[
+				"val",
+				"validated_data"
+			],
+			[
+				"q",
+				"queryset"
+			],
+			[
+				"obje",
+				"object_members\tstatement"
+			],
+			[
+				"obe",
+				"object_members\tstatement"
+			],
+			[
+				"ser",
+				"serializers"
+			],
+			[
+				"in",
+				"instance\tparam"
+			],
+			[
+				"ob",
+				"object_member\tforstmt"
+			],
+			[
+				"update",
+				"update_member\tforstmt"
+			],
+			[
+				"status",
+				"status_code"
+			],
+			[
+				"stat",
+				"status\timport"
+			],
+			[
+				"del",
+				"delete_response\tstatement"
+			],
+			[
+				"team",
+				"teamzapp\tmodule"
+			],
+			[
+				"instan",
+				"instance_member\tforstmt"
+			],
+			[
+				"obj",
+				"object_ids\tstatement"
+			],
+			[
+				"inta",
+				"instance_member\tforstmt"
+			],
+			[
+				"rq",
+				"request_member\tforstmt"
+			],
+			[
+				"int",
+				"instance_member\tforstmt"
+			],
+			[
+				"re",
+				"request_member\tforstmt"
+			],
+			[
+				"requ",
+				"request_members\tstatement"
+			],
+			[
+				"o",
+				"object_member"
+			],
+			[
+				"ge",
+				"get_members"
+			],
+			[
+				"member",
+				"member_id\tstatement"
+			],
+			[
+				"tea",
+				"team_name"
+			],
+			[
+				"tema",
+				"team_name"
+			],
+			[
+				"te",
+				"team_name"
+			],
+			[
+				"vala",
+				"validated_data\tparam"
+			],
+			[
+				"vale",
+				"validated_data\tparam"
+			],
+			[
+				"seria",
+				"serializer"
+			],
+			[
+				"con",
+				"content_type\tstatement"
+			],
+			[
+				"Meme",
+				"MemberSerializer\tclass"
+			],
+			[
+				"meme",
+				"members_data\tstatement"
+			],
+			[
+				"qu",
+				"queryset"
+			],
+			[
+				"Vie",
+				"viewsets"
+			],
+			[
+				"Te",
+				"TeamSerializer\tclass"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"Base",
+				"BaseUserManager\timport"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"User",
+				"UserViewSet\tclass"
+			],
+			[
+				"Tas",
+				"TaskViewSet\tclass"
+			],
+			[
+				"Us",
+				"UserSerializer\tclass"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"Member",
+				"MemberSerializer\tclass"
+			],
+			[
+				"Choi",
+				"ChoiceInline\tclass"
+			],
+			[
+				"date",
+				"datetime\tmodule"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/merkys/Documents/djrest-tutorial/teamsite-mongo/teamapp/models.py",
+			"settings":
+			{
+				"buffer_size": 605,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/merkys/Documents/djrest-tutorial/teamsite-mongo/ringapp/models.py",
+			"settings":
+			{
+				"buffer_size": 2550,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/merkys/Documents/djrest-tutorial/teamsite-mongo/teamapp/serializers.py",
+			"settings":
+			{
+				"buffer_size": 6264,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 92.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 362.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/merkys/Documents/djrest-tutorial/teamsite/teamapp/models.py",
+		"/home/merkys/Documents/djrest-tutorial/teamsite/teamsite/settings.py",
+		"/home/merkys/Documents/djrest-tutorial/teamsite/ringapp/models.py",
+		"/home/merkys/Documents/djrest-tutorial/teamsite/teamapp/serializers.py",
+		"/home/merkys/Documents/OSOS/task_3",
+		"/home/merkys/Documents/djrest-tutorial/teamsite-mongo/.gitignore",
+		"/home/merkys/Documents/OSOS/commands",
+		"/home/merkys/Documents/djrest-tutorial/teamsite/ringapp/serializers.py",
+		"/home/merkys/Documents/djrest-tutorial/teamsite/teamapp/views.py",
+		"/home/merkys/Documents/djrest-tutorial/teamsite/teamapp/tests.py",
+		"/home/merkys/Documents/djrest-tutorial/teamsite/teamapp/urls.py",
+		"/home/merkys/Documents/djrest-tutorial/teamsite/teamsite/urls.py",
+		"/home/merkys/Documents/OSOS/task_1",
+		"/home/merkys/Documents/djrest-tutorial/teamsite/db_commands",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/teamzapp/tests.py",
+		"/home/merkys/Documents/djrest-tutorial/teamsite/teamapp/pagination.py",
+		"/home/merkys/Documents/djrest-tutorial/teamsite/.gitignore",
+		"/home/merkys/Documents/OSOS/authen/accountsite/accounts/tests.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/authsite/settings.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/team/serializers.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/authsite/urls.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/members/urls.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/members/models.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/jwtauthapp/urls.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/jwtauthapp/views.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/jwtauthapp/serializers.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/jwtauthapp/models.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/members/views.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/members/serializers.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/team/urls.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/team/models.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/team/views.py",
+		"/home/merkys/Documents/OSOS/authen/accountsite/accounts/views.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/jwtauthapp/tests.py",
+		"/home/merkys/Documents/djrest-tutorial/accountsite/accounts/views.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/authentication/views.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/jwtauthapp/admin.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/authentication/serializers.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/authentication/models.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/authentication/urls.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite/authsite/settings.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite/authentication/urls.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite/authsite/urls.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite/authentication/serializers.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite/authentication/views.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite/jwtauthapp/serializers.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite/authentication/models.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/ssh_key_for_github.pub",
+		"/home/merkys/Documents/djrest-tutorial/authsite-git/ssh_key_for_github",
+		"/home/merkys/Documents/djrest-tutorial/authsite/jwtauthapp/views.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite/jwtauthapp/urls.py",
+		"/home/merkys/Documents/djrest-tutorial/authsite/jwtauthapp/models.py",
+		"/home/merkys/Documents/OSOS/edienynas/edienynasvenv/ososdev-edienynas-api-c621511e9675/app/environment/global_admin/backend/user/views.py",
+		"/home/merkys/Documents/OSOS/edienynas/edienynasvenv/ososdev-edienynas-api-c621511e9675/app/models/authentication.py",
+		"/home/merkys/Documents/django-tutorial/mysite/mysite/settings.py",
+		"/home/merkys/Documents/djrest-tutorial/accountsite/accounts/urls.py",
+		"/home/merkys/Documents/djrest-tutorial/accountsite/accounts/serializers.py",
+		"/home/merkys/Documents/djrest-tutorial/accountsite/accounts/tests.py",
+		"/home/merkys/Documents/OSOS/tasks",
+		"/home/merkys/Documents/OSOS/Dockerfile",
+		"/home/merkys/Documents/OSOS/requirements.txt",
+		"/home/merkys/Documents/django-tutorial/mysite/requirements.txt",
+		"/home/merkys/Documents/django-tutorial/docker_commands",
+		"/home/merkys/Documents/django-tutorial/mysite/Dockerfile",
+		"/home/merkys/Documents/django-tutorial/mysite/docker-compose.yml",
+		"/home/merkys/Documents/django-tutorial/test_docker_compose/mysite/settings.py",
+		"/home/merkys/Documents/django-tutorial/test_docker_compose/docker-compose.yml",
+		"/home/merkys/Documents/django-tutorial/test_docker_compose/composeexample/settings.py",
+		"/home/merkys/Documents/django-tutorial/test_docker_compose/composeexample/mysite/settings.py",
+		"/home/merkys/Documents/django-tutorial/test_docker_compose/Dockerfile",
+		"/home/merkys/Documents/django-tutorial/test_docker_compose/requirements.txt",
+		"/home/merkys/Documents/django-tutorial/mysite/mysite/urls.py",
+		"/home/merkys/Documents/django-tutorial/mysite/start.sh",
+		"/home/merkys/Documents/django-tutorial/mysite/docker_commands",
+		"/home/merkys/Documents/django-tutorial/mysite/polls/admin.py",
+		"/home/merkys/Documents/django-tutorial/mysite/polls/models.py",
+		"/home/merkys/Documents/django-tutorial/mysite/polls/urls.py",
+		"/home/merkys/Documents/django-tutorial/mysite/polls/tests.py",
+		"/home/merkys/Documents/django-tutorial/mysite/polls/views.py",
+		"/home/merkys/Documents/django-tutorial/mysite/polls/static/polls/style.css",
+		"/home/merkys/Documents/django-tutorial/mysite/polls/templates/polls/results.html",
+		"/home/merkys/Documents/django-tutorial/mysite/polls/templates/polls/detail.html",
+		"/home/merkys/Documents/django-tutorial/mysite/polls/templates/polls/index.html",
+		"/home/merkys/Documents/django-tutorial/mysite/polls/templates/polls/static/polls/style.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/merkys/Documents/OSOS/edienynas/edienynasvenv/ososdev-edienynas-api-c621511e9675"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pagination.py",
+			"            self.validate_unique_email(validated_data, members_delete)\n",
+			"cake",
+			"team",
+			"router.register(r'member', MemberViewSet, 'member')\n",
+			"serializers.py",
+			"Post",
+			"jwtauthapp",
+			"print",
+			"pritn",
+			"AUTH_USER",
+			"REST_",
+			"model = Account",
+			"model = Acco",
+			"Account",
+			"AbstractBaseUser",
+			"django.contrib.auth",
+			"it",
+			"swarm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Team"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/merkys/Documents/djrest-tutorial/teamsite-mongo/teamapp/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/merkys/Documents/djrest-tutorial/teamsite-mongo/ringapp/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2001,
+								2001
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 450.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/merkys/Documents/djrest-tutorial/teamsite-mongo/teamapp/serializers.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "teamsite-mongo.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
